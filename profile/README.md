@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-    <a href="#" target="_blank"><img src="/profile/images/banner.png" alt="Tubeblend profile banner"></a>
+    <a href="#" target="_blank"><img src="/profile/images/cover-image-tube-blend.png" alt="Tubeblend profile banner"></a>
     <br />
     <br />
     <h3>TubeBlend: Your Gateway to Seamless Collaboration in Video Content Creation.</h3>
